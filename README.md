@@ -35,7 +35,7 @@ Each day, I will update this repository with:
 
 ---
 
-## 🧠 Topics Covered
+## 🧠 Topics that should be Covered
 
 ### 🐍 Python & Data Handling
 
