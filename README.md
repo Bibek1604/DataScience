@@ -67,11 +67,6 @@ Each day, I will update this repository with:
 - Model Building, Evaluation, and Deployment
 - Visualization, storytelling, and decision-making insights
 
-### 🧪 Advanced Topics (Optional)
-
-- Neural Networks & Deep Learning (Keras, TensorFlow)
-- Time Series Forecasting & NLP
-- Deployment with Flask, Streamlit, or FastAPI
 
 ---
 
