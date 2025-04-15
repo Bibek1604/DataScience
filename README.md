@@ -19,7 +19,7 @@ The primary goal of this challenge is to build a strong foundation in **Data Sci
 
 | Phase | Focus Area                                      | Timeline        |
 |-------|--------------------------------------------------|-----------------|
-| Phase 1  | Python Revision & Data Manipulation               | Days 1–14        |
+| Phase 1  |  & Data Manipulation               | Days 1–14        |
 | Phase 2  | Data Visualization & Exploratory Data Analysis    | Days 15–35       |
 | Phase 3  | Statistics, Probability & Hypothesis Testing      | Days 36–56       |
 | Phase 4  | Core Machine Learning Algorithms                  | Days 57–84       |

@@ -1,0 +1,28 @@
+python -m venv myenv
+myenv\Scripts\activate
+.\activate
+pip install numpy
+
+
+while muliptlying list 
+
+gives same list double time 
+
+
+while muliptlying array
+element wise multiplication
+
+
+numpy oundaiton creatiion of array and method 
+
+
+Today, I took a deep dive into NumPy — one of the most important Python libraries for numerical computing!
+
+Here's what I practiced:
+
+✅ Creating 1D and 2D NumPy arrays
+✅ Difference between Python lists and NumPy arrays
+✅ Array creation from scratch: zeros, ones, random, arange
+✅ Understanding vectors, matrices, and tensors
+✅ Indexing and slicing arrays
+✅ Performing mathematical operations on arrays
