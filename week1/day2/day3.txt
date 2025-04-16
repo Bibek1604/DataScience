@@ -1,0 +1,40 @@
+Here's a breakdown of what you've done in your code:
+
+1. **Data Initialization**:
+   - Created a 2D NumPy array (`sales_data`), representing sales data for multiple restaurants over several days.
+
+2. **Basic Operations**:
+   - Used `.sum` and `.mean` methods to calculate the total and average sales. (Note: `sum` and `mean` are methods, so they should be called with parentheses `()`).
+   - Accessed and printed specific slices of the data (`sales_data[:2]` and `sales_data[:2, :]`).
+
+3. **Sum of Sales**:
+   - Calculated the total sales for each restaurant (`np.sum(sales_data, axis=0)`) and yearly sales (`np.sum(sales_data[:, 1:], axis=0)`).
+
+4. **Min and Max Sales**:
+   - Found the minimum sales for each restaurant over all days (`np.min(sales_data[:, :], axis=1)`).
+   - Found the maximum sales for each restaurant by year (`np.max(sales_data[:, 1:], axis=0)`).
+
+5. **Average Sales**:
+   - Calculated the average sales per restaurant across all days (`np.mean(sales_data[:, :], axis=1)`).
+   - Plotted the average cumulative sum across all restaurants over time.
+
+6. **Cumulative Sum (Cumsum)**:
+   - Used `np.cumsum()` to calculate the cumulative sum of sales for each restaurant over days.
+   - Plotted the average cumulative sum across all restaurants.
+
+7. **Vector Multiplication**:
+   - Performed element-wise multiplication between two vectors (`vector1` and `vector2`).
+
+8. **Restaurant Sales Visualization**:
+   - Created a line plot showing the sales performance of each restaurant over the days.
+
+9. **Total Sales per Day**:
+   - Calculated and plotted the total sales for all restaurants combined per day using a bar chart.
+
+10. **Heatmap of Sales**:
+    - Used `plt.imshow()` to generate a heatmap that visualizes the sales values for each restaurant across all days.
+
+11. **Stacked Area Chart**:
+    - Used `plt.stackplot()` to create a stacked area plot showing the sales trends for each restaurant across the days.
+
+Each step here involves analyzing and visualizing the sales data using different types of charts and statistical methods.
